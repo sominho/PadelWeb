@@ -12,9 +12,6 @@
 */
 
 Route::get('/', function () {
-<<<<<<< HEAD
     return view('bienvenido');
-=======
-    return view('welcome');
->>>>>>> master
+   
 });
